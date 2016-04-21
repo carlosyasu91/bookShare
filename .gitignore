@@ -6,7 +6,6 @@ bower_components/
 
 .sass-cache
 
-dist/
 server/keys.js
 client/keys.js
 
