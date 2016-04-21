@@ -13,7 +13,6 @@ client/keys.js
 build/lib
 build/bundle.js
 
-
 .DS_Store
 
 .sass-cache/
